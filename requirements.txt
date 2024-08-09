@@ -1,0 +1,8 @@
+PyMuPDF
+fastapi
+pdfplumber==0.7.5
+torch
+openpyxl
+pandas
+opencv-python
+requests
